@@ -16,6 +16,7 @@ This repository holds data in development related to military equipment owned by
 | **Cost** | This is the item cost as calculated not from the vendor but based on the MEI. |
 | **Life Span (years)**| This is taken from the MEI. (May include a range)|
 
+## Visualize the data
 You will also find a Palladio save file (json) which is to be used to visualize the data with the open source browser based platform, [Palladio](https://hdlab.stanford.edu/palladio/). Open the Palladio app, choose "Load an existing project" and then "Load a remote Palladio file." Copy the link below and paste it into the "Load a remote Palladio file" field.
 
 [/Palladio_MEI_20230124.json](https://raw.githubusercontent.com/know-systemic-racism/mei/main/Palladio_MEI_20230124.json)
