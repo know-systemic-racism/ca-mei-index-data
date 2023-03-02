@@ -1,7 +1,9 @@
 # Military Equipment Index
-This is a list that describes the types of military equipment owned by California law enforcement agencies. It is drawn from actual military equipment inventories that were required by law ([Assembly Bill No. 481](https://leginfo.legislature.ca.gov/faces/billTextClient.xhtml?bill_id=202120220AB481)) to be posted publicly. The data is made available in this repository in two tables as comma separated (csv) format. For more about this legislation and its importance, see [California law enforcement now needs approval for military grade surveillance](https://www.eff.org/deeplinks/2022/05/california-law-enforcement-now-needs-approval-military-grade-surveillance)
+This is a list that describes the types of military equipment owned by California law enforcement agencies. It is drawn from actual military equipment inventories that were required by law ([Assembly Bill No. 481](https://leginfo.legislature.ca.gov/faces/billTextClient.xhtml?bill_id=202120220AB481)) to be posted publicly. For more about this legislation and its importance, see [California law enforcement now needs approval for military grade surveillance](https://www.eff.org/deeplinks/2022/05/california-law-enforcement-now-needs-approval-military-grade-surveillance).
 
-## Data Codebook
+## The Data
+The data is made available in this repository in two tables as comma separated (csv) format. The table below explains what data was captured and how. 
+
 |Column Heading | Description |
 |---------------| ------------|
 | **Listed name** | The product as listed in MEI (military equipment inventory). Capitalization as written in the inventory. |
