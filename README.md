@@ -1,4 +1,4 @@
-# mei
+# Military Equipment Index
 This repository holds data in development related to military equipment owned by California law enforcement agencies. The data is made available in this repository in two tables as comma separated (csv) format.
 
 ## Data Codebook
